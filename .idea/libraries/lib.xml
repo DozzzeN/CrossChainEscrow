@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../双线性对-基础教程/JPBC-TEST/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/../../双线性对-基础教程/JPBC-TEST/lib" recursive="false" />
+  </library>
+</component>
